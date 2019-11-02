@@ -63,7 +63,7 @@ _________                    ________________________________
 except KeyboardInterrupt:
 	ex=input(colored("\n[?] Did you just try to quit application ? Y/n: ","yellow"))
 	if ex=="y" or ex=="Y":
-		print(colored("[!] Thank you for using 'gh-eb' .","cyan"))
+		print(colored("[!] Thank you for using 'fbg-hack-eb' .","cyan"))
 		time.sleep(1)
 		print(colored("[!] Quiting the application.","red"))
 		time.sleep(2)
