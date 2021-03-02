@@ -23,13 +23,13 @@ python3 faceg.py
 Credits:
 
 THANKS FOR USING JOSIFKHAN'S TOOLS.
-#FOLLOW ME ON
+# FOLLOW ME ON
 GitHub - http://github.com/josifkhan
 
-Instagram - http://instagram.com/josifkhangg
-Facebook - http://facebook.com/josifkhangg
-#SUBSCIBE MY CHANNEL
-YouTube - http://youtube.com/anonymousbghh
+# Instagram - http://instagram.com/josifkhangg
+# Facebook - http://facebook.com/josifkhangg
+# SUBSCIBE MY CHANNEL
+# YouTube - http://youtube.com/anonymousbghh
 
 
 
