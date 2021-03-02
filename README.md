@@ -1,4 +1,4 @@
-# FBG-hack-Eb
+# faceg - facebook group hacking tool
 
 
 
