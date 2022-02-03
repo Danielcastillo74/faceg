@@ -27,7 +27,7 @@ THANKS FOR USING JOSIFKHAN'S TOOLS.
 GitHub - http://github.com/josifkhan
 
 # Instagram - http://instagram.com/josifkhangg
-# Facebook - http://facebook.com/josifkhangg
+# Facebook - http://facebook.com/josif404s
 # SUBSCIBE MY CHANNEL
 # YouTube - http://youtube.com/101hacker
 
